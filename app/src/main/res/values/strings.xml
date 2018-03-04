@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwitterTest</string>
+    <string name="authorizing_is_in_progress">Authorizing...</string>
+    <string name="search_for_tweets">Find tweets</string>
+    <string name="search_results_empty">No results</string>
+    <string name="searching_for_tweets">Searching for tweets...</string>
+    <string name="successfully_authorized">Successfully authorised!</string>
+    <string name="type_search_query">Type search query here...</string>
+</resources>
